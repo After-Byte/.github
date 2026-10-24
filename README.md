@@ -1,8 +1,6 @@
 <div align="center">
-
-<div align="center">
   <img
-    src="[[https://raw.githubusercontent.com/YOUR-ORG/.github/main/profile/assets/magicsmoke-banner.png](https://github.com/After-Byte/.github/blob/main/MagicSmoke%20Robotics%20Command%20Center.png?raw=true)](https://github.com/After-Byte/.github/blob/main/MagicSmoke%20Robotics%20Command%20Center.png?raw=true)"
+    src="./MagicSmoke%20Robotics%20Command%20Center.png"
     alt="MagicSmoke — Where Code Becomes Motion"
     width="100%"
   />
