@@ -2,7 +2,7 @@
 
 <div align="center">
   <img
-    src="https://raw.githubusercontent.com/YOUR-ORG/.github/main/profile/assets/magicsmoke-banner.png"
+    src="[https://raw.githubusercontent.com/YOUR-ORG/.github/main/profile/assets/magicsmoke-banner.png](https://github.com/After-Byte/.github/blob/main/MagicSmoke%20Robotics%20Command%20Center.png?raw=true)"
     alt="MagicSmoke — Where Code Becomes Motion"
     width="100%"
   />
