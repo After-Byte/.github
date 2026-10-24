@@ -30,8 +30,6 @@ Our vision is to make engineering more accessible through interactive tools for 
 ### ◈ Our Projects
 
 - **MagicSmoke** — A browser-based robotics and simulation workspace.
-- **Digital Logic Simulator** — Exploring digital logic through interactive experiments.
-- **Robotics Experiments** — Learning through real-world robots, sensors, and embedded systems.
 
 ### ◈ Our Philosophy
 
