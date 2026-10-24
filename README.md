@@ -1,7 +1,12 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/lextleo/MagicSmoke/main/assets/magicsmoke-logo.png" width="120" alt="MagicSmoke Logo"/>
-
+<div align="center">
+  <img
+    src="https://raw.githubusercontent.com/YOUR-ORG/.github/main/profile/assets/magicsmoke-banner.png"
+    alt="MagicSmoke — Where Code Becomes Motion"
+    width="100%"
+  />
+</div>
 # MagicSmoke
 
 ### Where code becomes motion.
